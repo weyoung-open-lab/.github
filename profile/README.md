@@ -28,7 +28,7 @@ We are a research-oriented lab focused on intelligent systems and interdisciplin
 - Chunhong Yuan ([coralr-1](https://github.com/coralr-1))
 - Tianshi Wei ([whynotEm](https://github.com/whynotEm))
 - - Liu94330 ([Liu94330](https://github.com/Liu94330))
-- Yule Cai  
+- Yule Cai ([Yule-Cai](https://github.com/Yule-Cai))
 
 ---
 
