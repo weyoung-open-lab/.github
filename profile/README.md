@@ -26,7 +26,7 @@ We are a research-oriented lab focused on intelligent systems and interdisciplin
 ## 👥 Team
 
 - Chunhong Yuan  
-- @whynotEm  
+- Tianshi Wei (@whynotEm) 
 - Xiang Zhang  
 - Yule Cai  
 
