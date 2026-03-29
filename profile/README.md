@@ -8,12 +8,13 @@ We are a research-oriented lab focused on intelligent systems and interdisciplin
 
 ## 🔬 Research Areas
 
-- 🤖 Robotics  
-- ⏳ Time Series Modeling  
-- 🧠 Machine Learning  
-- 📊 Quantitative Finance  
-- 🧩 Explainable AI  
-- 📈 Data Science  
+- 🤖 Robotics (Mobile Robots, Autonomous Vehicles)
+- 🎯 Action Recognition (Human Motion Understanding, Behavior Analysis)
+- ⏳ Time Series Modeling (Forecasting, Anomaly Detection)
+- 🧠 Machine Learning (Deep Learning, AI for Healthcare)
+- 📊 Quantitative Finance (Alpha Modeling, Trading Strategies)
+- 🧩 Explainable AI (Model Interpretability)
+- 📈 Data Science (Data Mining, Analytics)
 
 ---
 
@@ -41,3 +42,9 @@ We aim to bridge theory and real-world applications by building systems that are
 ## 📫 Get Involved
 
 Feel free to explore our repositories and collaborate with us.
+- Email: w1356324347@gmail.com
+- GitHub: https://github.com/Weiyang-open-lab
+
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Robotics-green)
