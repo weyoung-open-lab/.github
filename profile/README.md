@@ -8,8 +8,6 @@
   <b>未泱 · We Young</b>
 </p>
 <br>
----
-
 Welcome to **We Young Open Lab** 👋
 
 We are a research-oriented lab focused on intelligent systems and interdisciplinary AI applications.
