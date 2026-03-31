@@ -52,7 +52,7 @@ We aim to bridge theory and real-world applications by building systems that are
 
 Feel free to explore our repositories and collaborate with us.
 - Email: w1356324347@gmail.com
-- GitHub: https://github.com/Weiyang-open-lab
+- GitHub: https://github.com/weyoung-open-lab
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
