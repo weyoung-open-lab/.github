@@ -9,7 +9,7 @@
 </p>
 
 <br>
-Welcome to **We Young Open Lab** 👋
+Welcome to We Young Open Lab 👋
 
 We are a research-oriented lab focused on intelligent systems and interdisciplinary AI applications.
 
