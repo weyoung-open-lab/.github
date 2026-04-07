@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/weyoung-open-lab/.github/main/logo.jpg" width="220"/>
+  <img src="https://raw.githubusercontent.com/weyoung-open-lab/.github/main/logo.png" width="220"/>
 </p>
 
 <h1 align="center">We Young Open Lab</h1>
